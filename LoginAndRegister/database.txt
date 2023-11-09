@@ -1,0 +1,10 @@
+database - 
+table - customer
+
+id 
+name
+email
+phone
+username
+password
+description
